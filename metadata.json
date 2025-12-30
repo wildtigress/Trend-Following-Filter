@@ -1,0 +1,5 @@
+{
+  "name": "Numatix Quant Dev Hub",
+  "description": "A comprehensive platform for designing, visualizing, and generating multi-timeframe trading strategies for the Numatix Quant Assignment. Includes trade matching, code generation, and parity validation between backtesting and live trading.",
+  "requestFramePermissions": []
+}
